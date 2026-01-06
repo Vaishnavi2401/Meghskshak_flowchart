@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="XnHcicxsHwTxFhy3-ePA">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-3" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_Y38rqfSWEETgHQ30kPW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-5" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-8" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Check whether course&amp;nbsp;&lt;div&gt;is paid or free&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="300" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="paid" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-11" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-14" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Check enrollment&amp;nbsp;&lt;div&gt;end date passeed or not&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="300" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Free" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-10" parent="1" style="whiteSpace=wrap;html=1;" value="Course Enrollment Close" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="date passed" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-17" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-30" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Check Course&amp;nbsp;&lt;div&gt;Enrollment Status&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="290" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="date not passed" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="false" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-21" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-19" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Check role_id" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-24" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-27" edge="1" parent="1" source="_Y38rqfSWEETgHQ30kPW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Y38rqfSWEETgHQ30kPW-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="if role_id ==2" vertex="1">
+          <mxGeometry height="110" width="160" x="610" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-23" parent="1" style="whiteSpace=wrap;html=1;" value="Don&#39;t show any button" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
+          <mxGeometry height="30" width="60" x="690" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-26" parent="1" style="whiteSpace=wrap;html=1;" value="Show enrollment button" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="790" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-29" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y38rqfSWEETgHQ30kPW-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="true" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
