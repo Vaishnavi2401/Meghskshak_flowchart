@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-YmHexfcSo2d95zxo0x-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="If role_id == 1" vertex="1">
-          <mxGeometry height="110" width="110" x="345" y="610" as="geometry" />
+          <mxGeometry height="110" width="110" x="330" y="610" as="geometry" />
         </mxCell>
         <mxCell id="O-YmHexfcSo2d95zxo0x-9" parent="1" style="whiteSpace=wrap;html=1;" value="User enrolled" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="980" as="geometry" />
