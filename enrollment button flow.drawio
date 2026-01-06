@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="XnHcicxsHwTxFhy3-ePA">
-    <mxGraphModel dx="1783" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,9 @@
         <mxCell id="O-YmHexfcSo2d95zxo0x-36" edge="1" parent="1" source="O-YmHexfcSo2d95zxo0x-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="O-YmHexfcSo2d95zxo0x-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7q9eTtOQyEbLRaEE9QCO-15" edge="1" parent="1" source="O-YmHexfcSo2d95zxo0x-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="O-YmHexfcSo2d95zxo0x-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-YmHexfcSo2d95zxo0x-35" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Check whether course&amp;nbsp;&lt;div&gt;close date passed&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="220" x="275" y="800" as="geometry" />
         </mxCell>
@@ -154,7 +157,7 @@
           <mxGeometry height="30" width="60" x="240" y="815" as="geometry" />
         </mxCell>
         <mxCell id="O-YmHexfcSo2d95zxo0x-39" parent="1" style="whiteSpace=wrap;html=1;" value="Course Closed" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="830" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="820" as="geometry" />
         </mxCell>
         <mxCell id="O-YmHexfcSo2d95zxo0x-43" edge="1" parent="1" source="O-YmHexfcSo2d95zxo0x-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="O-YmHexfcSo2d95zxo0x-28">
           <mxGeometry relative="1" as="geometry" />
@@ -271,15 +274,6 @@
         </mxCell>
         <mxCell id="7q9eTtOQyEbLRaEE9QCO-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
           <mxGeometry height="30" width="60" x="970" y="310" as="geometry" />
-        </mxCell>
-        <mxCell id="7q9eTtOQyEbLRaEE9QCO-14" edge="1" parent="1" source="O-YmHexfcSo2d95zxo0x-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1.025;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" target="O-YmHexfcSo2d95zxo0x-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="285" y="850" />
-              <mxPoint x="205" y="850" />
-              <mxPoint x="205" y="856" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
